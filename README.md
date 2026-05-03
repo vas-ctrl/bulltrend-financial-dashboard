@@ -2,24 +2,29 @@
 
 ![Visão Geral do Dashboard](tela-1.jpg)
 
-Dashboard desenvolvido em Power BI com suporte de Python para análise de ações, consolidando métricas do mercado financeiro em uma visão executiva orientada à tomada de decisão.
+Em um mercado com excesso de dados, o desafio não é acessar informação — é transformá-la em decisão.
+
+Este projeto consolida dados do mercado financeiro em uma visão clara e direcionada, permitindo identificar rapidamente o desempenho de um ativo e apoiar decisões de investimento.
+
+## Insight
+A análise evidencia a relação entre preço de mercado e valor percebido do ativo, destacando momentos de possível desalinhamento — ponto crítico para tomada de decisão.
 
 ## Objetivo
-Apoiar decisões de investimento por meio de uma visualização clara, objetiva e orientada ao desempenho de ativos.
+Transformar dados dispersos em uma narrativa visual simples, objetiva e acionável para análise de ações.
 
 ## Principais entregas
-- Visão consolidada do ativo
-- Métricas de mercado e valuation
-- Análise de desempenho recente
-- Comparação de períodos (3M vs 12M)
-- Visualização gráfica da cotação
+- Visão consolidada do ativo  
+- Métricas de mercado e valuation  
+- Análise de desempenho recente  
+- Comparação de períodos (3M vs 12M)  
+- Visualização da evolução da cotação  
 
 ## Tecnologias utilizadas
-- Power BI para construção do dashboard e visualização executiva  
-- Python para coleta, tratamento e análise de dados  
-- Pandas e NumPy para manipulação e estruturação de dados  
-- Matplotlib e Seaborn para visualizações analíticas  
-- Fundamentus e YFinance como fontes de dados do mercado financeiro  
+- Power BI para visualização executiva  
+- Python para coleta e tratamento de dados  
+- Pandas e NumPy para manipulação de dados  
+- Matplotlib e Seaborn para apoio analítico  
+- Fundamentus e YFinance como fontes de dados  
 
 ## Aplicação
-Projeto voltado para análise de ações com foco em suporte à decisão de investimento e monitoramento de performance no mercado financeiro.
+Solução voltada para análise de ações com foco em suporte à decisão e monitoramento de performance no mercado financeiro.
